@@ -1,16 +1,16 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Home from './pages/Home';
-import Sermons from './pages/Sermons';
-import Live from './pages/Live';
-import Resources from './pages/Resources';
-import About from './pages/About';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Home from "./pages/Home";
+import Sermons from "./pages/Sermons";
+import Live from "./pages/Live";
+import Resources from "./pages/Resources";
+import About from "./pages/About";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/JohnRoweResourceWebsite/">
       <div className="min-h-screen bg-gray-50">
         <Header />
         <main>
