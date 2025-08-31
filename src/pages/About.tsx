@@ -45,14 +45,14 @@ const About = () => {
                 <div className="w-20 h-20 bg-white bg-opacity-20 rounded-full flex items-center justify-center mx-auto mb-3">
                   <Users className="w-10 h-10" />
                 </div>
-                <p className="text-sm font-medium">Pastor Photo</p>
+                <p className="text-sm font-medium">Evangelist Photo</p>
               </div>
             </div>
             
             <div className="flex-1 text-center md:text-left">
-              <h2 className="text-3xl font-bold text-gray-900 mb-4">Pastor John Smith</h2>
+              <h2 className="text-3xl font-bold text-gray-900 mb-4">Evangelist Jon Rowe</h2>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                Pastor John has been faithfully serving Southwest Church of Christ for over 15 years. 
+                Evangelist Jon has been faithfully serving Southwest Church of Christ for over 15 years. 
                 He holds a Master of Divinity from Abilene Christian University and is passionate about 
                 teaching God's Word with clarity and relevance for today's world.
               </p>

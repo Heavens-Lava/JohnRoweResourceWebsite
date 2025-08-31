@@ -104,7 +104,7 @@ const Live = () => {
                       </div>
                       <div className="text-sm">
                         <span className="font-semibold text-purple-700">Grace K:</span>
-                        <span className="text-gray-700 ml-2">Thank you Pastor John for this teaching</span>
+                        <span className="text-gray-700 ml-2">Thank you Evangelist Jon for this teaching</span>
                       </div>
                     </div>
                   </div>

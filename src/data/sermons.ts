@@ -13,7 +13,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '1',
     title: 'Walking in Faith: Trusting God\'s Plan',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'January 14, 2025',
     duration: '38:45',
     series: 'Faith Foundations',
@@ -23,7 +23,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '2',
     title: 'The Power of Prayer in Daily Life',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'January 7, 2025',
     duration: '42:20',
     series: 'Faith Foundations',
@@ -33,7 +33,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '3',
     title: 'Living with Purpose: God\'s Calling',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'December 31, 2024',
     duration: '45:15',
     series: 'Living with Purpose',
@@ -43,7 +43,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '4',
     title: 'Hope in Trials: Finding Strength',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'December 24, 2024',
     duration: '35:30',
     series: 'Hope in Trials',
@@ -53,7 +53,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '5',
     title: 'The Gift of Grace',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'December 17, 2024',
     duration: '40:12',
     series: 'Faith Foundations',
@@ -63,7 +63,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '6',
     title: 'Building Christian Character',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'December 10, 2024',
     duration: '43:28',
     series: 'Living with Purpose',
@@ -73,7 +73,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '7',
     title: 'Finding Peace in Chaos',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'December 3, 2024',
     duration: '39:45',
     series: 'Hope in Trials',
@@ -83,7 +83,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '8',
     title: 'The Foundation of Faith',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'November 26, 2024',
     duration: '41:33',
     series: 'Faith Foundations',
@@ -93,7 +93,7 @@ export const sampleSermons: Sermon[] = [
   {
     id: '9',
     title: 'Serving Others with Joy',
-    speaker: 'Pastor John Smith',
+    speaker: 'Evangelist Jon Rowe',
     date: 'November 19, 2024',
     duration: '37:22',
     series: 'Living with Purpose',
